@@ -1,27 +1,29 @@
-**ABOUT ME**  
-I am passionate about the cross-section of business and analytics. Check out my **[projects]()**
-where I discover fascinating insights to understand and solve problems a data set at a time. 
+**ABOUT ME**  :seedling:
 
-**DATA ANALYTICS SKILLS**
+I am passionate about the cross-section of business and analytics. 
+Check out my **[case study on pet products](https://github.com/vanessa-ip/pet-product-subscription)** 
+and **[global crop production]()**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
+
+**DATA ANALYTICS SKILLS** :green_apple:
 - Data management and quality assurance
 - Exploratory data analysis and statistical analysis
 - Performance measurement planning
 - Data visualizations and dashboard reporting 
 - Presenting data insights
 
-**ANALYTICS TOOLS**
+**ANALYTICS TOOLS** :herb:
 - SQL
 - Microsoft Excel / Google Sheets
 - Tableau / Google Data Studio
 - Python / R
 
-**FIND ME ON**
+**FIND ME ON** :pear:
 - [LinkedIn](https://www.linkedin.com/in/vanessaip11/)
-- [Stratascratch](https://platform.stratascratch.com/user/greenpeach)
 - [Tableau](https://public.tableau.com/app/profile/vanessa1607)
+- [Stratascratch](https://platform.stratascratch.com/user/greenpeach)
 - Kaggle
 
-**PROFESSIONAL ADVANCEMENT**
+**PROFESSIONAL ADVANCEMENT** :potted_plant:
 - University of Pennsylvania - [Wharton Business Analytics: From Data to Insights Certification](https://online-execed.wharton.upenn.edu/business-analytics) (in progress)  
   
 
@@ -32,7 +34,7 @@ where I discover fascinating insights to understand and solve problems a data se
 
 
 - DataCamp - [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018369279329#) (completed 2022)  
-  - [Data analysis case study submission]()
+  - [Case study submission](https://github.com/vanessa-ip/pet-product-subscription)
   - Understanding Data Visualization 
   - Introduction to Statistics
   - Introduction to SQL
