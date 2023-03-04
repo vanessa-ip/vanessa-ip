@@ -1,29 +1,30 @@
-**ABOUT ME**  :seedling:
+:herb: <span style="color:#967BDF">**ABOUT ME**</span> 
 
-I am passionate about the cross-section of business and analytics. 
-Check out my **[case study on pet products](https://github.com/vanessa-ip/pet-product-subscription)** 
-and **[global crop production]()**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
+I am passionate about the cross-section of business and analytics. I am a food enthusiast and a health nut who is enhancing my skills in SQL, Tableau and Python with a mission to create a positive impact on this planet.
 
-**DATA ANALYTICS SKILLS** :green_apple:
+Check out my **[case studies on pet products](https://github.com/vanessa-ip/pet-product-subscription)** 
+and **[global crop production](https://github.com/vanessa-ip/global-crop-production)**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
+
+:green_apple: <span style="color:#967BDF">**DATA ANALYTICS SKILLS** </span> 
 - Data management and quality assurance
 - Exploratory data analysis and statistical analysis
 - Performance measurement planning
 - Data visualizations and dashboard reporting 
 - Presenting data insights
 
-**ANALYTICS TOOLS** :herb:
+:cactus: <span style="color:#967BDF">**ANALYTICS TOOLS** </span> 
 - SQL
 - Microsoft Excel / Google Sheets
 - Tableau / Google Data Studio
 - Python / R
 
-**FIND ME ON** :pear:
+:seedling: <span style="color:#967BDF">**FIND ME ON** </span> 
 - [LinkedIn](https://www.linkedin.com/in/vanessaip11/)
 - [Tableau](https://public.tableau.com/app/profile/vanessa1607)
 - [Stratascratch](https://platform.stratascratch.com/user/greenpeach)
 - Kaggle
 
-**PROFESSIONAL ADVANCEMENT** :potted_plant:
+:potted_plant: <span style="color:#967BDF">**PROFESSIONAL ADVANCEMENT** </span> 
 - University of Pennsylvania - [Wharton Business Analytics: From Data to Insights Certification](https://online-execed.wharton.upenn.edu/business-analytics) (in progress)  
   
 
