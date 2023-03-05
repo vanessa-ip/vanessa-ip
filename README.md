@@ -1,11 +1,11 @@
-<div style="color:#967BDF; font-weight: bold">:herb: **ABOUT ME**</div> 
+:herb: **ABOUT ME**
 
 I am passionate about the cross-section of business and analytics. I am a food enthusiast and a health nut who is enhancing my skills in SQL, Tableau and Python with a mission to utilize data and create a positive impact on this planet.
 
 Check out my **[case studies on pet products](https://github.com/vanessa-ip/pet-product-subscription)** 
 and **[global crop production](https://github.com/vanessa-ip/global-crop-production)**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
 
-<div style="color:#967BDF; font-weight: bold">:green_apple: **DATA ANALYTICS SKILLS** </div> 
+:cactus: **DATA ANALYTICS SKILLS**
 
 - Data management and quality assurance
 - Exploratory data analysis and statistical analysis
@@ -14,21 +14,21 @@ and **[global crop production](https://github.com/vanessa-ip/global-crop-product
 - Presenting data insights  
 
 
-<div style="color:#967BDF; font-weight: bold">:cactus: **ANALYTICS TOOLS** </div> 
+:seedling: **ANALYTICS TOOLS** 
 
 - SQL
 - Microsoft Excel / Google Sheets
 - Tableau / Google Data Studio
 - Python / R
 
-<div style="color:#967BDF; font-weight: bold; font-weight: bold">:seedling: **FIND ME ON** </div> 
+:green_apple: **FIND ME ON**
 
 - [LinkedIn](https://www.linkedin.com/in/vanessaip11/)
 - [Tableau](https://public.tableau.com/app/profile/vanessa1607)
 - [Stratascratch](https://platform.stratascratch.com/user/greenpeach)
 - Kaggle
 
-<div style="color:#967BDF; font-weight: bold">:potted_plant: **PROFESSIONAL ADVANCEMENT** </div> 
+:potted_plant: **PROFESSIONAL ADVANCEMENT**
 
 - University of Pennsylvania - [Wharton Business Analytics: From Data to Insights Certification](https://online-execed.wharton.upenn.edu/business-analytics) (in progress)  
   
