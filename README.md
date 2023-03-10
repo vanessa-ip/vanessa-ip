@@ -1,9 +1,9 @@
 :herb: **ABOUT ME**
 
-I am passionate about the cross-section of business and analytics. I am a food enthusiast and a health nut who is enhancing my skills in SQL, Tableau and Python with a mission to utilize data and create a positive impact on this planet.
+I am passionate about the cross-section of business and analytics. I am a food enthusiast and a health nut who is enhancing my skills in SQL, Tableau and Python with a mission to utilize data and create a positive impact on this planet. My future aspirations involve gaining a deeper understanding of AI and machine learning.
 
-Check out my **[case studies on pet products](https://github.com/vanessa-ip/pet-product-subscription)** 
-and **[global crop production](https://github.com/vanessa-ip/global-crop-production)**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
+Check out my **case studies** on **[Pet Product Subscription](https://github.com/vanessa-ip/pet-product-subscription)** 
+and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-production)**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
 
 :cactus: **DATA ANALYTICS SKILLS**
 
