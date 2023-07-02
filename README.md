@@ -30,16 +30,19 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
 
 :potted_plant: **PROFESSIONAL ADVANCEMENT**
 
-- University of Pennsylvania - [Wharton Business Analytics: From Data to Insights Certification](https://online-execed.wharton.upenn.edu/business-analytics) (in progress)  
-  
-
 - Udemy - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) (in progress)
   
 
-- DataCamp - [Data Analyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python) (in progress)  
+- DataCamp - [Data Analyst with Python career track](https://www.datacamp.com/tracks/data-analyst-with-python) (in progress)  
 
 
-- DataCamp - [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018369279329#) (completed 2022)  
+- University of Pennsylvania - [Wharton Business Analytics: From Data to Insights Certificate](https://online-execed.wharton.upenn.edu/business-analytics) (completed 2023) 
+
+
+- 365 Data Science - [Introduction to Business Analytics course](https://learn.365datascience.com/courses/preview/introduction-to-business-analytics/) (completed 2023)
+
+
+- DataCamp - [Data Analyst Associate Certificate career track](https://www.datacamp.com/certificate/DAA0018369279329#) (completed 2022)  
   - [Case study submission](https://github.com/vanessa-ip/pet-product-subscription)
   - Understanding Data Visualization 
   - Introduction to Statistics
