@@ -1,6 +1,6 @@
 :herb: **ABOUT ME**
 
-I am passionate about the cross-section of business and analytics. I am a food enthusiast and a health nut who is enhancing my skills in SQL, Tableau and Python with a mission to utilize data and create a positive impact on this planet. My future aspirations involve gaining a deeper understanding of AI and machine learning.
+I am passionate about the cross-section of health, business operations and analytics. I am on a mission to utilize the power of data and insights to create a positive impact on this planet. My future aspirations involve expanding my knowledge of AI and machine learning.
 
 Check out my **case studies** on **[Pet Product Subscription](https://github.com/vanessa-ip/pet-product-subscription)** 
 and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-production)**. I will be posting more projects as I discover fascinating insights to understand and solve problems a data set at a time. 
@@ -8,17 +8,18 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
 :cactus: **DATA ANALYTICS SKILLS**
 
 - Data management and quality assurance
-- Exploratory data analysis and statistical analysis
+- Data cleaning and manipulation
+- Exploratory, descriptive, predictive and statistical data analyses
 - Performance measurement planning
 - Data visualizations and dashboard reporting 
-- Presenting data insights  
+- Presenting actionable insights and recommendations
 
 
 :seedling: **ANALYTICS TOOLS** 
 
 - SQL
 - Microsoft Excel / Google Sheets
-- Tableau / Google Data Studio
+- Tableau / PowerBI / Google Analytics & Data Studio
 - Python / R
 
 :green_apple: **FIND ME ON**
@@ -36,10 +37,22 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
 - DataCamp - [Data Analyst with Python career track](https://www.datacamp.com/tracks/data-analyst-with-python) (in progress)  
 
 
-- University of Pennsylvania - [Wharton Business Analytics: From Data to Insights Certificate](https://online-execed.wharton.upenn.edu/business-analytics) (completed 2023) 
+- IBM - [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering) (in progress)
+
+
+- University of Pennsylvania - [The School of Wharton Business Analytics: From Data to Insights Certificate](https://online-execed.wharton.upenn.edu/business-analytics) (completed 2023) 
 
 
 - 365 Data Science - [Introduction to Business Analytics course](https://learn.365datascience.com/courses/preview/introduction-to-business-analytics/) (completed 2023)
+
+
+- DataCamp - Python courses (completed 2023)
+  - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+  - [Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
+  - [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
+  - [Data Manipulation with Pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas) 
+  - [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
+  - [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 
 
 - DataCamp - [Data Analyst Associate Certificate career track](https://www.datacamp.com/certificate/DAA0018369279329#) (completed 2022)  
@@ -54,23 +67,13 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
   - Functions for Manipulating Data in PostgreSQL
   - Exploratory Data Analysis in SQL
   - Data-Driven Decision-Making in SQL
-  - Data Communication Concepts 
-  
+  - Data Communication Concepts
 
 - DataCamp - Additional SQL courses (completed 2022)
   - [Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
   - [Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
   - [SQL for Joining Data](https://www.datacamp.com/courses/sql-for-joining-data)
   - [Intermediate SQL Queries](https://www.datacamp.com/courses/intermediate-sql-queries) 
-    
-
-- DataCamp - Python courses (completed 2022)
-  - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-  - [Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
-  - [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
-  - [Data Manipulation with Pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas) 
-  - [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
-  
 
 - DataCamp - Machine learning courses (completed 2022)
   - [Understanding Machine Learning](https://www.datacamp.com/courses/understanding-machine-learning)
