@@ -53,6 +53,9 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
   - [Data Manipulation with Pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas) 
   - [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
   - [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
+  - [Introduction to Data Visualization with seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+  - [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
+  - [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
 
 
 - DataCamp - [Data Analyst Associate Certificate career track](https://www.datacamp.com/certificate/DAA0018369279329#) (completed 2022)  
@@ -69,11 +72,13 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
   - Data-Driven Decision-Making in SQL
   - Data Communication Concepts
 
+
 - DataCamp - Additional SQL courses (completed 2022)
   - [Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
   - [Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
   - [SQL for Joining Data](https://www.datacamp.com/courses/sql-for-joining-data)
   - [Intermediate SQL Queries](https://www.datacamp.com/courses/intermediate-sql-queries) 
+
 
 - DataCamp - Machine learning courses (completed 2022)
   - [Understanding Machine Learning](https://www.datacamp.com/courses/understanding-machine-learning)
