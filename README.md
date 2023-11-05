@@ -32,21 +32,12 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
 :potted_plant: **PROFESSIONAL ADVANCEMENT**
 
 - Udemy - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) (in progress)
-  
-
-- DataCamp - [Data Analyst with Python career track](https://www.datacamp.com/tracks/data-analyst-with-python) (in progress)  
 
 
 - IBM - [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering) (in progress)
 
 
-- University of Pennsylvania - [The School of Wharton Business Analytics: From Data to Insights Certificate](https://online-execed.wharton.upenn.edu/business-analytics) (completed 2023) 
-
-
-- 365 Data Science - [Introduction to Business Analytics course](https://learn.365datascience.com/courses/preview/introduction-to-business-analytics/) (completed 2023)
-
-
-- DataCamp - Python courses (completed 2023)
+- DataCamp - [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/64e2043a22cc202d0d8a9f115ad95411b2a7ae8f) career track program (completed 2023)
   - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
   - [Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
   - [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
@@ -56,10 +47,22 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
   - [Introduction to Data Visualization with seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
   - [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
   - [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
+  - [Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)
 
 
-- DataCamp - [Data Analyst Associate Certificate career track](https://www.datacamp.com/certificate/DAA0018369279329#) (completed 2022)  
-  - [Case study submission](https://github.com/vanessa-ip/pet-product-subscription)
+- DataCamp - Data Engineering courses (completed 2023)
+  - [Understanding Data Engineering](https://www.datacamp.com/courses/understanding-data-engineering)
+  - [Introduction to Data Warehousing](https://www.datacamp.com/courses/introduction-to-data-warehousing)
+  
+
+- University of Pennsylvania - [The School of Wharton Business Analytics: From Data to Insights Certificate](https://online-execed.wharton.upenn.edu/business-analytics) program (completed 2023) 
+
+
+- 365 Data Science - [Introduction to Business Analytics](https://learn.365datascience.com/courses/preview/introduction-to-business-analytics/) course (completed 2023)
+
+
+- DataCamp - [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018369279329#) career track program (completed 2022)  
+  - [Case Study Assignment](https://github.com/vanessa-ip/pet-product-subscription)
   - Understanding Data Visualization 
   - Introduction to Statistics
   - Introduction to SQL
@@ -80,7 +83,7 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
   - [Intermediate SQL Queries](https://www.datacamp.com/courses/intermediate-sql-queries) 
 
 
-- DataCamp - Machine learning courses (completed 2022)
+- DataCamp - Machine Learning courses (completed 2022)
   - [Understanding Machine Learning](https://www.datacamp.com/courses/understanding-machine-learning)
   
 
@@ -98,7 +101,7 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
   - [Data Visualization in Spreadsheets](https://www.datacamp.com/courses/data-visualization-in-spreadsheets)
   
 
-- Google - Data Analytics Professional Certificate (completed 2021)
+- Google - Data Analytics Professional Certificate program (completed 2021)
   - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/7QCQSXBPXBKB)
   - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/NNSCX2P8NEHB)
   - [Prepare Data for Exploration ](https://www.coursera.org/account/accomplishments/certificate/6HZH3KBYLGTH)
