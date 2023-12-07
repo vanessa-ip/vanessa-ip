@@ -53,6 +53,10 @@ and **[Global Crop Production](https://github.com/vanessa-ip/global-crop-product
 - DataCamp - Data Engineering courses (completed 2023)
   - [Understanding Data Engineering](https://www.datacamp.com/courses/understanding-data-engineering)
   - [Introduction to Data Warehousing](https://www.datacamp.com/courses/introduction-to-data-warehousing)
+  - [Cleaning Data in PostgreSQL Databases](https://www.datacamp.com/completed/statement-of-accomplishment/course/b1b9ba3658aa6fbb69eb0b07067c0d68f2475fba)
+  - [Improving Query Performance in SQL Server](https://www.datacamp.com/completed/statement-of-accomplishment/course/99d900f9293ef8329f0f073064a11692fc1889cd)
+  - [Introduction to Data Pipelines](https://www.datacamp.com/completed/statement-of-accomplishment/course/c9d774209c7726cffef98298695603a2fd730703) 
+  - [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/a210228f9db8988ff9c2cff6275fc7300bf0b921)
   
 
 - University of Pennsylvania - [The School of Wharton Business Analytics: From Data to Insights Certificate](https://online-execed.wharton.upenn.edu/business-analytics) program (completed 2023) 
